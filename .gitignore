@@ -1,1 +1,3 @@
 *.del
+*.bak
+/node_modules/**/*
