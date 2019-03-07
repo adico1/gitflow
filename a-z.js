@@ -6,3 +6,8 @@
  * and will remove them from the a-z one liner
  */
 console.log('abcdefghijklmnopqrstuvwxyz');
+console.log('abcdefghi');
+console.log('j');
+console.log('k');
+console.log('l');
+console.log('mnopqrstuvwxyz');
