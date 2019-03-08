@@ -13,4 +13,6 @@ console.log('ghijklmno');
 console.log('p');
 console.log('q');
 console.log('r');
-console.log('stuvwxyz');
+console.log('stuvw');
+console.log('x');
+console.log('yz');
