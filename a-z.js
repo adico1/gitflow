@@ -15,4 +15,5 @@ console.log('q');
 console.log('r');
 console.log('stuvw');
 console.log('x');
-console.log('yz');
+console.log('y');
+console.log('z');
