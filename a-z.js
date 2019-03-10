@@ -7,7 +7,9 @@
  */
 console.log('abcdefghi');
 console.log('j');
-console.log('klmnopqrstuvwxyz');
-console.log('abcdefghijklmnopq');
+console.log('k');
+console.log('lmno');
+console.log('p');
+console.log('q');
 console.log('r');
 console.log('stuvwxyz');
