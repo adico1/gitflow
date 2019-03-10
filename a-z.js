@@ -5,7 +5,9 @@
  * Each branch will add no more the 2 non-consequtive letters 
  * and will remove them from the a-z one liner
  */
-console.log('abc');
+console.log('a');
+console.log('b');
+console.log('c');
 console.log('d');
 console.log('e');
 console.log('f');
